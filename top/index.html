@@ -25,18 +25,18 @@
 
   <meta name="description" content="AV.initialize(&quot;AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI&quot;, &quot;36Y1HAK9TYwC7UcX5fQS5EkL&quot;);AV.useAVCloudUS();    var time&#x3D;0   var title&#x3D;&quot;&quot;   var url&#x3D;&quot;&quot;   var query &#x3D; new AV.Query(&#39;Counter&#39;);   query.notEqualTo(">
 <meta property="og:type" content="website">
-<meta property="og:title" content="自律神經失調日記">
-<meta property="og:url" content="https://lifewillbebetter586.github.io/populararticle/index.html">
+<meta property="og:title" content="熱門文章">
+<meta property="og:url" content="https://lifewillbebetter586.github.io/top/index.html">
 <meta property="og:site_name" content="自律神經失調日記">
 <meta property="og:description" content="AV.initialize(&quot;AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI&quot;, &quot;36Y1HAK9TYwC7UcX5fQS5EkL&quot;);AV.useAVCloudUS();    var time&#x3D;0   var title&#x3D;&quot;&quot;   var url&#x3D;&quot;&quot;   var query &#x3D; new AV.Query(&#39;Counter&#39;);   query.notEqualTo(">
 <meta property="og:locale" content="zh_TW">
-<meta property="article:published_time" content="2020-07-21T07:36:32.798Z">
-<meta property="article:modified_time" content="2020-07-21T07:36:32.798Z">
+<meta property="article:published_time" content="2020-07-22T03:44:53.000Z">
+<meta property="article:modified_time" content="2020-07-22T03:42:09.079Z">
 <meta property="article:author" content="默默">
 <meta property="article:tag" content="自律神經失調">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://lifewillbebetter586.github.io/populararticle/">
+<link rel="canonical" href="https://lifewillbebetter586.github.io/top/">
 
 
 <script id="page-configurations">
@@ -49,7 +49,7 @@
   };
 </script>
 
-  <title> | 自律神經失調日記
+  <title>熱門文章 | 自律神經失調日記
 </title>
   
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157917618-2"></script>
@@ -153,6 +153,11 @@
     <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>Archives</a>
 
   </li>
+        <li class="menu-item menu-item-top">
+
+    <a href="/top/" rel="section"><i class="fa fa-fw fa-signal"></i>熱門文章</a>
+
+  </li>
         <li class="menu-item menu-item-medicalfiles">
 
     <a href="/categories/%E8%A8%BA%E7%99%82%E6%AA%94%E6%A1%88/" rel="section"><i class="fa fa-fw fa-clipboard"></i>診療檔案</a>
@@ -230,7 +235,7 @@
     <div class="post-block" lang="zh-tw">
       <header class="post-header">
 
-<h1 class="post-title" itemprop="name headline">
+<h1 class="post-title" itemprop="name headline">熱門文章
 </h1>
 
 <div class="post-meta">
@@ -261,7 +266,7 @@
       time=result.time;
       title=result.title;
       url=result.url;
-      var content="<p>"+"<font color='#1C1C1C'>"+"【文章熱度:"+time+"℃】"+"</font>"+"<a href='"+"https://tding.top"+url+"'>"+title+"</a>"+"</p>";
+      var content="<p>"+"<font color='#1C1C1C'>"+"【文章熱度:"+time+"℃】"+"</font>"+"<a href='"+"https://lifewillbebetter586.github.io"+url+"'>"+title+"</a>"+"</p>";
       document.getElementById("top").innerHTML+=content
     }
   }, function (error) {
@@ -282,13 +287,6 @@
 
           </div>
           
-    
-  <div class="comments">
-    <div id="disqus_thread">
-      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
-    </div>
-  </div>
-  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -487,9 +485,14 @@
                 console.error('Failed to save visitor count', error);
               });
           } else {
-              leancloudSelector(url).innerText = 'Counter not initialized! More info at console err msg.';
-              console.error('ATTENTION! LeanCloud counter has security bug, see how to solve it here: https://github.com/theme-next/hexo-leancloud-counter-security. \n However, you can still use LeanCloud without security, by setting `security` option to `false`.');
-            
+              Counter('post', '/classes/Counter', { title, url, time: 1 })
+                .then(response => response.json())
+                .then(() => {
+                  leancloudSelector(url).innerText = 1;
+                })
+                .catch(error => {
+                  console.error('Failed to create', error);
+                });
           }
         })
         .catch(error => {
@@ -516,7 +519,7 @@
         });
     }
 
-    let { app_id, app_key, server_url } = {"enable":true,"app_id":"AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI","app_key":"36Y1HAK9TYwC7UcX5fQS5EkL","server_url":null,"security":true,"betterPerformance":false};
+    let { app_id, app_key, server_url } = {"enable":true,"app_id":"AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI","app_key":"36Y1HAK9TYwC7UcX5fQS5EkL","server_url":null,"security":false,"betterPerformance":false};
     function fetchData(api_server) {
       var Counter = (method, url, data) => {
         return fetch(`${api_server}/1.1${url}`, {
@@ -607,26 +610,6 @@
   }
   // defer loading until the whole page loading is completed
   window.addEventListener('load', loadCount, false);
-</script>
-<script>
-  var disqus_config = function() {
-    this.page.url = "https://lifewillbebetter586.github.io/populararticle/index.html";
-    this.page.identifier = "populararticle/index.html";
-    this.page.title = "";
-    };
-  NexT.utils.loadComments(document.querySelector('#disqus_thread'), () => {
-    if (window.DISQUS) {
-      DISQUS.reset({
-        reload: true,
-        config: disqus_config
-      });
-    } else {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://lifewillbebetter.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', '' + +new Date());
-      (d.head || d.body).appendChild(s);
-    }
-  });
 </script>
 
 </body>
