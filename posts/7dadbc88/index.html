@@ -34,9 +34,9 @@
 <meta property="article:modified_time" content="2020-06-22T06:43:36.956Z">
 <meta property="article:author" content="默默">
 <meta property="article:tag" content="脹氣">
-<meta property="article:tag" content="胸口灼熱">
 <meta property="article:tag" content="食道異物感">
 <meta property="article:tag" content="胃食道逆流">
+<meta property="article:tag" content="胸口灼熱">
 <meta property="article:tag" content="內湖三總">
 <meta name="twitter:card" content="summary">
 
@@ -293,13 +293,6 @@
             </span>
 
           
-            <span id="/posts/7dadbc88/" class="post-meta-item leancloud_visitors" data-flag-title="2015.9.20 【內湖三總 肝膽胃腸科】" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
             <span class="post-meta-item" title="Views">
               <span class="post-meta-item-icon">
                 <i class="fa fa-users"></i>
@@ -462,9 +455,9 @@
           
           <div class="post-tags">
               <a href="/tags/%E8%84%B9%E6%B0%A3/" rel="tag"><i class="fa fa-tag"></i> 脹氣</a>
-              <a href="/tags/%E8%83%B8%E5%8F%A3%E7%81%BC%E7%86%B1/" rel="tag"><i class="fa fa-tag"></i> 胸口灼熱</a>
               <a href="/tags/%E9%A3%9F%E9%81%93%E7%95%B0%E7%89%A9%E6%84%9F/" rel="tag"><i class="fa fa-tag"></i> 食道異物感</a>
               <a href="/tags/%E8%83%83%E9%A3%9F%E9%81%93%E9%80%86%E6%B5%81/" rel="tag"><i class="fa fa-tag"></i> 胃食道逆流</a>
+              <a href="/tags/%E8%83%B8%E5%8F%A3%E7%81%BC%E7%86%B1/" rel="tag"><i class="fa fa-tag"></i> 胸口灼熱</a>
               <a href="/tags/%E5%85%A7%E6%B9%96%E4%B8%89%E7%B8%BD/" rel="tag"><i class="fa fa-tag"></i> 內湖三總</a>
           </div>
 
@@ -751,92 +744,6 @@
   </script>
 
 
-<script>
-  (function() {
-    function leancloudSelector(url) {
-      url = encodeURI(url);
-      return document.getElementById(url).querySelector('.leancloud-visitors-count');
-    }
-
-    function addCount(Counter) {
-      var visitors = document.querySelector('.leancloud_visitors');
-      var url = decodeURI(visitors.id);
-      var title = visitors.dataset.flagTitle;
-
-      Counter('get', '/classes/Counter?where=' + encodeURIComponent(JSON.stringify({ url })))
-        .then(response => response.json())
-        .then(({ results }) => {
-          if (results.length > 0) {
-            var counter = results[0];
-            leancloudSelector(url).innerText = counter.time + 1;
-            Counter('put', '/classes/Counter/' + counter.objectId, { time: { '__op': 'Increment', 'amount': 1 } })
-              .catch(error => {
-                console.error('Failed to save visitor count', error);
-              });
-          } else {
-              leancloudSelector(url).innerText = 'Counter not initialized! More info at console err msg.';
-              console.error('ATTENTION! LeanCloud counter has security bug, see how to solve it here: https://github.com/theme-next/hexo-leancloud-counter-security. \n However, you can still use LeanCloud without security, by setting `security` option to `false`.');
-            
-          }
-        })
-        .catch(error => {
-          console.error('LeanCloud Counter Error', error);
-        });
-    }
-
-    function showTime(Counter) {
-      var visitors = document.querySelectorAll('.leancloud_visitors');
-      var entries = [...visitors].map(element => {
-        return decodeURI(element.id);
-      });
-
-      Counter('get', '/classes/Counter?where=' + encodeURIComponent(JSON.stringify({ url: { '$in': entries } })))
-        .then(response => response.json())
-        .then(({ results }) => {
-          for (let url of entries) {
-            let target = results.find(item => item.url === url);
-            leancloudSelector(url).innerText = target ? target.time : 0;
-          }
-        })
-        .catch(error => {
-          console.error('LeanCloud Counter Error', error);
-        });
-    }
-
-    let { app_id, app_key, server_url } = {"enable":true,"app_id":"AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI","app_key":"36Y1HAK9TYwC7UcX5fQS5EkL","server_url":null,"security":true,"betterPerformance":false};
-    function fetchData(api_server) {
-      var Counter = (method, url, data) => {
-        return fetch(`${api_server}/1.1${url}`, {
-          method,
-          headers: {
-            'X-LC-Id'     : app_id,
-            'X-LC-Key'    : app_key,
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify(data)
-        });
-      };
-      if (CONFIG.page.isPost) {
-        if (CONFIG.hostname !== location.hostname) return;
-        addCount(Counter);
-      } else if (document.querySelectorAll('.post-title-link').length >= 1) {
-        showTime(Counter);
-      }
-    }
-
-    let api_server = app_id.slice(-9) !== '-MdYXbMMI' ? server_url : `https://${app_id.slice(0, 8).toLowerCase()}.api.lncldglobal.com`;
-
-    if (api_server) {
-      fetchData(api_server);
-    } else {
-      fetch('https://app-router.leancloud.cn/2/route?appId=' + app_id)
-        .then(response => response.json())
-        .then(({ api_server }) => {
-          fetchData('https://' + api_server);
-        });
-    }
-  })();
-</script>
 
 
       </div>
