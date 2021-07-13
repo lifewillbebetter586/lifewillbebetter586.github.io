@@ -304,11 +304,11 @@
                 </span>
                   , 
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E8%A8%BA%E7%99%82%E6%AA%94%E6%A1%88/%E8%87%AA%E6%88%91%E5%B0%8D%E8%A9%B1/" itemprop="url" rel="index"><span itemprop="name">自我對話</span></a>
+                  <a href="/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/" itemprop="url" rel="index"><span itemprop="name">藏書小森林</span></a>
                 </span>
                   , 
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/" itemprop="url" rel="index"><span itemprop="name">藏書小森林</span></a>
+                  <a href="/categories/%E8%A8%BA%E7%99%82%E6%AA%94%E6%A1%88/%E8%87%AA%E6%88%91%E5%B0%8D%E8%A9%B1/" itemprop="url" rel="index"><span itemprop="name">自我對話</span></a>
                 </span>
             </span>
 
@@ -747,14 +747,9 @@
                 console.error('Failed to save visitor count', error);
               });
           } else {
-              Counter('post', '/classes/Counter', { title, url, time: 1 })
-                .then(response => response.json())
-                .then(() => {
-                  leancloudSelector(url).innerText = 1;
-                })
-                .catch(error => {
-                  console.error('Failed to create', error);
-                });
+              leancloudSelector(url).innerText = 'Counter not initialized! More info at console err msg.';
+              console.error('ATTENTION! LeanCloud counter has security bug, see how to solve it here: https://github.com/theme-next/hexo-leancloud-counter-security. \n However, you can still use LeanCloud without security, by setting `security` option to `false`.');
+            
           }
         })
         .catch(error => {
@@ -781,7 +776,7 @@
         });
     }
 
-    let { app_id, app_key, server_url } = {"enable":true,"app_id":"AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI","app_key":"36Y1HAK9TYwC7UcX5fQS5EkL","server_url":null,"security":false,"betterPerformance":false};
+    let { app_id, app_key, server_url } = {"enable":true,"app_id":"AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI","app_key":"36Y1HAK9TYwC7UcX5fQS5EkL","server_url":null,"security":true,"betterPerformance":false};
     function fetchData(api_server) {
       var Counter = (method, url, data) => {
         return fetch(`${api_server}/1.1${url}`, {

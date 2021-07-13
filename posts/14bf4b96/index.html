@@ -39,8 +39,8 @@
 <meta property="article:tag" content="失眠">
 <meta property="article:tag" content="飲食紀錄">
 <meta property="article:tag" content="食療">
-<meta property="article:tag" content="撫慰身心靈">
 <meta property="article:tag" content="芳療">
+<meta property="article:tag" content="撫慰身心靈">
 <meta name="twitter:card" content="summary">
 
 <link rel="canonical" href="https://lifewillbebetter586.github.io/posts/14bf4b96/">
@@ -491,8 +491,8 @@
               <a href="/tags/%E5%A4%B1%E7%9C%A0/" rel="tag"><i class="fa fa-tag"></i> 失眠</a>
               <a href="/tags/%E9%A3%B2%E9%A3%9F%E7%B4%80%E9%8C%84/" rel="tag"><i class="fa fa-tag"></i> 飲食紀錄</a>
               <a href="/tags/%E9%A3%9F%E7%99%82/" rel="tag"><i class="fa fa-tag"></i> 食療</a>
-              <a href="/tags/%E6%92%AB%E6%85%B0%E8%BA%AB%E5%BF%83%E9%9D%88/" rel="tag"><i class="fa fa-tag"></i> 撫慰身心靈</a>
               <a href="/tags/%E8%8A%B3%E7%99%82/" rel="tag"><i class="fa fa-tag"></i> 芳療</a>
+              <a href="/tags/%E6%92%AB%E6%85%B0%E8%BA%AB%E5%BF%83%E9%9D%88/" rel="tag"><i class="fa fa-tag"></i> 撫慰身心靈</a>
           </div>
 
         
@@ -731,14 +731,9 @@
                 console.error('Failed to save visitor count', error);
               });
           } else {
-              Counter('post', '/classes/Counter', { title, url, time: 1 })
-                .then(response => response.json())
-                .then(() => {
-                  leancloudSelector(url).innerText = 1;
-                })
-                .catch(error => {
-                  console.error('Failed to create', error);
-                });
+              leancloudSelector(url).innerText = 'Counter not initialized! More info at console err msg.';
+              console.error('ATTENTION! LeanCloud counter has security bug, see how to solve it here: https://github.com/theme-next/hexo-leancloud-counter-security. \n However, you can still use LeanCloud without security, by setting `security` option to `false`.');
+            
           }
         })
         .catch(error => {
@@ -765,7 +760,7 @@
         });
     }
 
-    let { app_id, app_key, server_url } = {"enable":true,"app_id":"AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI","app_key":"36Y1HAK9TYwC7UcX5fQS5EkL","server_url":null,"security":false,"betterPerformance":false};
+    let { app_id, app_key, server_url } = {"enable":true,"app_id":"AFFzwoAfHDiMcB4w2gGpnmnm-MdYXbMMI","app_key":"36Y1HAK9TYwC7UcX5fQS5EkL","server_url":null,"security":true,"betterPerformance":false};
     function fetchData(api_server) {
       var Counter = (method, url, data) => {
         return fetch(`${api_server}/1.1${url}`, {
