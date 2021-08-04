@@ -12,3 +12,4 @@ Disallow: /vendors/
 Disallow: /fancybox/
 
 Sitemap: https://lifewillbebetter586.github.io/sitemap.xml
+Sitemap: https://lifewillbebetter586.github.io/baidusitemap.xml
