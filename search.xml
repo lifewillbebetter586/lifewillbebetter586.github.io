@@ -459,8 +459,8 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
-        <tag>麵類料理</tag>
         <tag>料理實驗室</tag>
+        <tag>麵類料理</tag>
         <tag>蔬菜料理</tag>
       </tags>
   </entry>
@@ -1090,9 +1090,9 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
-        <tag>料理實驗室</tag>
         <tag>海鮮料理</tag>
         <tag>下飯料理</tag>
+        <tag>料理實驗室</tag>
       </tags>
   </entry>
   <entry>
@@ -1633,10 +1633,10 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
+        <tag>海鮮料理</tag>
+        <tag>料理實驗室</tag>
         <tag>湯類料理</tag>
         <tag>麵類料理</tag>
-        <tag>料理實驗室</tag>
-        <tag>海鮮料理</tag>
       </tags>
   </entry>
   <entry>
@@ -2230,10 +2230,10 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
+        <tag>料理實驗室</tag>
         <tag>羊肉料理</tag>
         <tag>湯類料理</tag>
         <tag>麵類料理</tag>
-        <tag>料理實驗室</tag>
       </tags>
   </entry>
   <entry>
@@ -2377,8 +2377,8 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
-        <tag>湯類料理</tag>
         <tag>料理實驗室</tag>
+        <tag>湯類料理</tag>
         <tag>默默的自律神經失調日記</tag>
       </tags>
   </entry>
@@ -3434,9 +3434,9 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
+        <tag>料理實驗室</tag>
         <tag>湯類料理</tag>
         <tag>麵類料理</tag>
-        <tag>料理實驗室</tag>
         <tag>默默的自律神經失調日記</tag>
         <tag>香菇雞湯</tag>
       </tags>
@@ -3514,8 +3514,8 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
-        <tag>湯類料理</tag>
         <tag>料理實驗室</tag>
+        <tag>湯類料理</tag>
         <tag>默默的自律神經失調日記</tag>
         <tag>蒜頭雞湯</tag>
       </tags>
@@ -3612,8 +3612,8 @@
       <tags>
         <tag>飲食紀錄</tag>
         <tag>料理日記</tag>
-        <tag>湯類料理</tag>
         <tag>料理實驗室</tag>
+        <tag>湯類料理</tag>
         <tag>清燉蘿蔔牛肉湯</tag>
         <tag>默默的自律神經失調日記</tag>
       </tags>
@@ -8159,9 +8159,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>內湖三總</tag>
       </tags>
   </entry>
@@ -8251,9 +8251,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>台北馬偕醫院</tag>
       </tags>
   </entry>
@@ -8338,9 +8338,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>台北馬偕醫院</tag>
       </tags>
   </entry>
@@ -8378,9 +8378,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>台北馬偕醫院</tag>
       </tags>
   </entry>
@@ -8487,9 +8487,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>台北馬偕醫院</tag>
       </tags>
   </entry>
@@ -8530,9 +8530,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>台北馬偕醫院</tag>
       </tags>
   </entry>
@@ -8762,9 +8762,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>台北馬偕醫院</tag>
       </tags>
   </entry>
@@ -8914,9 +8914,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>台北馬偕醫院</tag>
       </tags>
   </entry>
@@ -8972,9 +8972,9 @@
       </categories>
       <tags>
         <tag>脹氣</tag>
-        <tag>胸口灼熱</tag>
         <tag>食道異物感</tag>
         <tag>胃食道逆流</tag>
+        <tag>胸口灼熱</tag>
         <tag>李宜霖肝膽胃腸科診所</tag>
       </tags>
   </entry>
