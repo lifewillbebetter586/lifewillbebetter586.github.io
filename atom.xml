@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>默默的&lt;br&gt;自律神經失調日記</title>
+  <title>默默的自律神經失調日記</title>
   
   <subtitle>Life Will Be Better.</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -51,9 +51,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -328,9 +328,9 @@
     
       <category term="自我成長" scheme="https://lifewillbebetter586.github.io/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%B7/"/>
     
-      <category term="心理學" scheme="https://lifewillbebetter586.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%B8/"/>
-    
       <category term="人文社科" scheme="https://lifewillbebetter586.github.io/tags/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/"/>
+    
+      <category term="心理學" scheme="https://lifewillbebetter586.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%B8/"/>
     
   </entry>
   
@@ -752,11 +752,11 @@
     
       <category term="有效溝通" scheme="https://lifewillbebetter586.github.io/tags/%E6%9C%89%E6%95%88%E6%BA%9D%E9%80%9A/"/>
     
-      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
-    
       <category term="試著溝通" scheme="https://lifewillbebetter586.github.io/tags/%E8%A9%A6%E8%91%97%E6%BA%9D%E9%80%9A/"/>
     
       <category term="心理治療" scheme="https://lifewillbebetter586.github.io/tags/%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82/"/>
+    
+      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
     
   </entry>
   
@@ -969,9 +969,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -1067,9 +1067,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -1165,9 +1165,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -1281,9 +1281,9 @@
     
       <category term="自我成長" scheme="https://lifewillbebetter586.github.io/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%B7/"/>
     
-      <category term="人際關係" scheme="https://lifewillbebetter586.github.io/tags/%E4%BA%BA%E9%9A%9B%E9%97%9C%E4%BF%82/"/>
-    
       <category term="商業理財" scheme="https://lifewillbebetter586.github.io/tags/%E5%95%86%E6%A5%AD%E7%90%86%E8%B2%A1/"/>
+    
+      <category term="人際關係" scheme="https://lifewillbebetter586.github.io/tags/%E4%BA%BA%E9%9A%9B%E9%97%9C%E4%BF%82/"/>
     
       <category term="職場工作術" scheme="https://lifewillbebetter586.github.io/tags/%E8%81%B7%E5%A0%B4%E5%B7%A5%E4%BD%9C%E8%A1%93/"/>
     
@@ -1459,9 +1459,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -1625,9 +1625,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -1785,9 +1785,9 @@
     
       <category term="有效溝通" scheme="https://lifewillbebetter586.github.io/tags/%E6%9C%89%E6%95%88%E6%BA%9D%E9%80%9A/"/>
     
-      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
-    
       <category term="心理治療" scheme="https://lifewillbebetter586.github.io/tags/%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82/"/>
+    
+      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
     
   </entry>
   
@@ -1869,9 +1869,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -2199,9 +2199,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -2549,9 +2549,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -3027,9 +3027,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -3579,9 +3579,9 @@
     
       <category term="療育停看聽" scheme="https://lifewillbebetter586.github.io/categories/%E4%BC%91%E9%A4%8A%E6%97%A5%E8%A8%98/%E7%99%82%E8%82%B2%E5%81%9C%E7%9C%8B%E8%81%BD/"/>
     
-      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
-    
       <category term="帶身心出走" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E5%B8%B6%E8%BA%AB%E5%BF%83%E5%87%BA%E8%B5%B0/"/>
+    
+      <category term="藏書小森林" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%97%8F%E6%9B%B8%E5%B0%8F%E6%A3%AE%E6%9E%97/"/>
     
       <category term="自我關照室" scheme="https://lifewillbebetter586.github.io/categories/%E5%BF%83%E9%9D%88%E9%A9%9B%E7%AB%99/%E8%87%AA%E6%88%91%E9%97%9C%E7%85%A7%E5%AE%A4/"/>
     
@@ -3944,11 +3944,11 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
-    
       <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
       <category term="海鮮料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B5%B7%E9%AE%AE%E6%96%99%E7%90%86/"/>
+    
+      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -4127,11 +4127,11 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
+      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
+    
       <category term="羊肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E7%BE%8A%E8%82%89%E6%96%99%E7%90%86/"/>
     
       <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
-    
-      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -4210,9 +4210,9 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
-    
       <category term="牛肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E7%89%9B%E8%82%89%E6%96%99%E7%90%86/"/>
+    
+      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
       <category term="韓式料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%9F%93%E5%BC%8F%E6%96%99%E7%90%86/"/>
     
@@ -4602,9 +4602,9 @@
     
       <category term="有效溝通" scheme="https://lifewillbebetter586.github.io/tags/%E6%9C%89%E6%95%88%E6%BA%9D%E9%80%9A/"/>
     
-      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
-    
       <category term="心理治療" scheme="https://lifewillbebetter586.github.io/tags/%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82/"/>
+    
+      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
     
   </entry>
   
@@ -4640,9 +4640,9 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
-    
       <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
+    
+      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
       <category term="雞肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%9B%9E%E8%82%89%E6%96%99%E7%90%86/"/>
     
@@ -4710,9 +4710,9 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
-    
       <category term="牛肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E7%89%9B%E8%82%89%E6%96%99%E7%90%86/"/>
+    
+      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -4830,11 +4830,11 @@
     
       <category term="心理勵志" scheme="https://lifewillbebetter586.github.io/tags/%E5%BF%83%E7%90%86%E5%8B%B5%E5%BF%97/"/>
     
+      <category term="商業理財" scheme="https://lifewillbebetter586.github.io/tags/%E5%95%86%E6%A5%AD%E7%90%86%E8%B2%A1/"/>
+    
       <category term="有效溝通" scheme="https://lifewillbebetter586.github.io/tags/%E6%9C%89%E6%95%88%E6%BA%9D%E9%80%9A/"/>
     
       <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
-    
-      <category term="商業理財" scheme="https://lifewillbebetter586.github.io/tags/%E5%95%86%E6%A5%AD%E7%90%86%E8%B2%A1/"/>
     
   </entry>
   
@@ -4924,9 +4924,9 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
-    
       <category term="牛肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E7%89%9B%E8%82%89%E6%96%99%E7%90%86/"/>
+    
+      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
       <category term="義大利麵" scheme="https://lifewillbebetter586.github.io/tags/%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5/"/>
     
@@ -5027,9 +5027,9 @@
     
       <category term="有效溝通" scheme="https://lifewillbebetter586.github.io/tags/%E6%9C%89%E6%95%88%E6%BA%9D%E9%80%9A/"/>
     
-      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
-    
       <category term="試著溝通" scheme="https://lifewillbebetter586.github.io/tags/%E8%A9%A6%E8%91%97%E6%BA%9D%E9%80%9A/"/>
+    
+      <category term="關係建立" scheme="https://lifewillbebetter586.github.io/tags/%E9%97%9C%E4%BF%82%E5%BB%BA%E7%AB%8B/"/>
     
   </entry>
   
@@ -5272,17 +5272,11 @@
     <link href="https://lifewillbebetter586.github.io/posts/a2c72e27/"/>
     <id>https://lifewillbebetter586.github.io/posts/a2c72e27/</id>
     <published>2020-07-20T07:57:46.000Z</published>
-    <updated>2025-08-04T04:01:23.366Z</updated>
+    <updated>2026-11-17T06:19:12.022Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Hi ~ 今天過得還好嗎?&lt;/p&gt;
-&lt;p&gt;向突然被帶到新網址而感到唐突的新朋友們說明，&lt;/p&gt;
-&lt;p&gt;目前連結舊網址，即自動轉至本站(新站)，&lt;/p&gt;
-&lt;p&gt;新家整理中，歡迎透過左側欄位&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; Search 搜尋所需文章，&lt;/p&gt;
-&lt;p&gt;也謝謝舊朋友固定回訪文章，&lt;/p&gt;
-&lt;p&gt;造成您閱讀上的不便，敬請見諒，&lt;/p&gt;
-&lt;p&gt;日後新舊文章都將於此發佈，歡迎您持續關注、追蹤，謝謝。&lt;/p&gt;
+      一到兩句說明這篇文章能解決什麼問題。
     
     </summary>
     
@@ -5961,13 +5955,13 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="雞肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%9B%9E%E8%82%89%E6%96%99%E7%90%86/"/>
-    
       <category term="蒸烤料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%92%B8%E7%83%A4%E6%96%99%E7%90%86/"/>
     
       <category term="夏日料理" scheme="https://lifewillbebetter586.github.io/tags/%E5%A4%8F%E6%97%A5%E6%96%99%E7%90%86/"/>
     
       <category term="吐司料理" scheme="https://lifewillbebetter586.github.io/tags/%E5%90%90%E5%8F%B8%E6%96%99%E7%90%86/"/>
+    
+      <category term="雞肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%9B%9E%E8%82%89%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -6334,11 +6328,11 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
+      <category term="豬肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%B1%AC%E8%82%89%E6%96%99%E7%90%86/"/>
     
       <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
-      <category term="豬肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%B1%AC%E8%82%89%E6%96%99%E7%90%86/"/>
+      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
       <category term="藥膳料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%97%A5%E8%86%B3%E6%96%99%E7%90%86/"/>
     
@@ -6557,11 +6551,11 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
-    
       <category term="豬肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%B1%AC%E8%82%89%E6%96%99%E7%90%86/"/>
     
       <category term="日式料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/"/>
+    
+      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -6637,11 +6631,11 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
+      <category term="豬肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%B1%AC%E8%82%89%E6%96%99%E7%90%86/"/>
     
       <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
-      <category term="豬肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%B1%AC%E8%82%89%E6%96%99%E7%90%86/"/>
+      <category term="湯類料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%B9%AF%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -7140,9 +7134,9 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="日式料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/"/>
-    
       <category term="牛肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E7%89%9B%E8%82%89%E6%96%99%E7%90%86/"/>
+    
+      <category term="日式料理" scheme="https://lifewillbebetter586.github.io/tags/%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -7177,9 +7171,9 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="雞肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%9B%9E%E8%82%89%E6%96%99%E7%90%86/"/>
-    
       <category term="吐司料理" scheme="https://lifewillbebetter586.github.io/tags/%E5%90%90%E5%8F%B8%E6%96%99%E7%90%86/"/>
+    
+      <category term="雞肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%9B%9E%E8%82%89%E6%96%99%E7%90%86/"/>
     
   </entry>
   
@@ -7213,11 +7207,11 @@
     
       <category term="胃大人痛苦指數" scheme="https://lifewillbebetter586.github.io/tags/%E8%83%83%E5%A4%A7%E4%BA%BA%E7%97%9B%E8%8B%A6%E6%8C%87%E6%95%B8/"/>
     
-      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
+      <category term="牛肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E7%89%9B%E8%82%89%E6%96%99%E7%90%86/"/>
     
       <category term="豬肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E8%B1%AC%E8%82%89%E6%96%99%E7%90%86/"/>
     
-      <category term="牛肉料理" scheme="https://lifewillbebetter586.github.io/tags/%E7%89%9B%E8%82%89%E6%96%99%E7%90%86/"/>
+      <category term="麵類料理" scheme="https://lifewillbebetter586.github.io/tags/%E9%BA%B5%E9%A1%9E%E6%96%99%E7%90%86/"/>
     
   </entry>
   
