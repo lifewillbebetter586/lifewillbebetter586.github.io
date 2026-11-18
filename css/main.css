@@ -1173,7 +1173,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e2aaff;
+  background: #78ff06;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2695,4 +2695,10 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+.site-title {
+  white-space: pre !important; /* 嚴格遵守你的換行，且禁止自動折行 */
+  text-align: center !important; /* 兩行文字水平置中對齊 */
+  line-height: 1.5 !important; /* 調整上下兩行的間距 */
+  font-size: 20px !important; /* 若 8 個字超出邊框，可微調此數字（例如 18px） */
 }
